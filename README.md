@@ -1,1 +1,1 @@
-# DevopsCourse2024
+# DevopsCourse2025
